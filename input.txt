@@ -1,0 +1,3 @@
+rahcluster1_root_var_logs|var logs on rahcluster1 server|/var/log
+rahcluster1_root_web_logs|Web Sphere logs for 100u|/opt/root_Runtime/profiles/rootCell/root/logs/rootServer1
+rahcluster2_root_var_logs|var logs on rahcluster2 server|/var/log

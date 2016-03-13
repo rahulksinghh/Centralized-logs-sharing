@@ -1,0 +1,3 @@
+DEPLOYMENT_DIR=/opt/rks/rks_Runtime/profiles/rksCell/rks/installedApps/rksCell/rkscentral.ear/rkscentral.war/share_it
+LINK=https://rkscluster.rks.rksclusters.net:11121/rkscentral/share_it
+NUMBER_OF_DAYS=7
